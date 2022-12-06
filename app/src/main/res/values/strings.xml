@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitFileUpload</string>
+    <string name="uploading_progress_here">Uploading Progress here</string>
+    <string name="retrofit_n_file_upload_with_progress">Retrofit \n File Upload with Progress</string>
+</resources>
